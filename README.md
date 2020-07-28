@@ -7,8 +7,10 @@ BuildBee Desktop is a free, easy to use all-in-one solution for 3D printing for 
 * [BuildBee Desktop Download](https://buildbee.com/landing/desktop)
 
 ## BuildBee MakeCode
+![Image of BuildBee MakeCode](https://download.buildflow.online/Github/buildbee-makecode.png)
+
 BuildBee MakeCode is an experimental block coding platform based on Microsoft MakeCode and OpenJSCad technologies.  
-It can be used to directly 3D print your code.
+It can be used to directly 3D print your code.  With a simple to use block coding interface, and a more advanced JavaScript editor, plus built in debugging - MakeCode turns the concepts from OpenJSCad into a fun and easy to use programming language.
 * [Design objects for 3D printing](https://buildbee.github.io/makecode)
 
 
